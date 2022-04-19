@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerardjr42
 - 👀 I’m interested in learning more about coding and philosophy
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science online at Harvard CS50x
 
 <!---
 gerardjr42/gerardjr42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
